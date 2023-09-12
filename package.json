@@ -4,8 +4,8 @@
   "description": "Simple file upload app",
   "main": "app.js",
   "scripts": {
-    "start:run":"node app.js",
-    "start":"nodemon app.js"
+    "start:run": "node app.js",
+    "start": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
